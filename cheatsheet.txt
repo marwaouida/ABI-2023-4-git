@@ -2,3 +2,5 @@ git add:
 Adds a file to the staging area
 git commit:
 Commits the staging area to the repository
+git push:
+Pushes local repo to remote repo
