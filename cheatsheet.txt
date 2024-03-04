@@ -1,0 +1,4 @@
+git add:
+Adds a file to the staging area
+git commit:
+Commits the staging area to the repository
